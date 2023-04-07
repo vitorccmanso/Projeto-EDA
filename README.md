@@ -1,0 +1,2 @@
+### Projeto Final Módulo 3 - TÉCNICAS DE PROGRAMAÇÃO I (PY):
+ - Análise Exploratória de Dados utilizando Pandas. Três arquivos CSV foram disponibilizados e o passo a passo do que foi pedido e como foi executado está no notebook. Para executar o notebook da forma correta, a pasta "arquivos" deve conter os três CSV e ela deve estar no mesmo diretório do notebook.
